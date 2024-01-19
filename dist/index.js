@@ -1,4 +1,4 @@
 "use strict";
-let age = 20;
-if (age < 50)
-    age += 10;
+let sales = 12345789;
+let course = 'Typescript';
+let is_published = true;
