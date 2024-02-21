@@ -1,7 +1,7 @@
 "use strict";
 let employee = {
     id: 1,
-    name: 'Gary',
+    name: 'Mosh',
     retire: (date) => {
         console.log(date);
     }
